@@ -1,4 +1,4 @@
-(defproject sv/system.main "0.1.0-SNAPSHOT"
+(defproject sv/system.main "0.1.0"
   :description "Provides some convenience functions to establish a
                 system based on sv/system."
   :url "https://github.com/SimpleValue/sv.system.main"
